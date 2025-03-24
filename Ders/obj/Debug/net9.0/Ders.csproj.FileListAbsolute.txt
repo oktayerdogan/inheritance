@@ -1,0 +1,14 @@
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\bin\Debug\net9.0\Ders.exe
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\bin\Debug\net9.0\Ders.deps.json
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\bin\Debug\net9.0\Ders.runtimeconfig.json
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\bin\Debug\net9.0\Ders.dll
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\bin\Debug\net9.0\Ders.pdb
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.AssemblyInfoInputs.cache
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.AssemblyInfo.cs
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.dll
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\refint\Ders.dll
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.pdb
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\Ders.genruntimeconfig.cache
+C:\Users\oktay\OneDrive\Masaüstü\C#\Ders\obj\Debug\net9.0\ref\Ders.dll
